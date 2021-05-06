@@ -13,6 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "mysql": "^2.16.0",
-    "sanitize-html": "^1.19.1"
+    "sanitize-html": "^2.3.2"
   }
 }
